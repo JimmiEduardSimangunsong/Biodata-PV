@@ -1,0 +1,8 @@
+C:\Users\User\Documents\SharpDevelop Projects\biodata\biodata\obj\Debug\biodata.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\SharpDevelop Projects\biodata\biodata\obj\Debug\biodata.MainForm.resources
+C:\Users\User\Documents\SharpDevelop Projects\biodata\biodata\obj\Debug\biodata.csproj.GenerateResource.Cache
+C:\Users\User\Documents\SharpDevelop Projects\biodata\biodata\bin\Debug\biodata.exe.config
+C:\Users\User\Documents\SharpDevelop Projects\biodata\biodata\bin\Debug\biodata.exe
+C:\Users\User\Documents\SharpDevelop Projects\biodata\biodata\bin\Debug\biodata.pdb
+C:\Users\User\Documents\SharpDevelop Projects\biodata\biodata\obj\Debug\biodata.exe
+C:\Users\User\Documents\SharpDevelop Projects\biodata\biodata\obj\Debug\biodata.pdb
